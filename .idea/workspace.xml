@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba44374d-6de2-4cf5-b010-4d68425a7810" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="$PROJECT_DIR$/_site/archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="$PROJECT_DIR$/_site/categories.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/themes/the-program/default.html" afterPath="$PROJECT_DIR$/_includes/themes/the-program/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html" afterPath="$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2012/01/16/olutindo/index.html" afterPath="$PROJECT_DIR$/_site/projects/2012/01/16/olutindo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="$PROJECT_DIR$/_site/tags.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chrisekelley.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,6 +26,7 @@
     <file path="/2011-12-29-jekyll-introduction.md" changelist="ba44374d-6de2-4cf5-b010-4d68425a7810" time="1369733868507" ignored="false" />
     <file path="/2011-05-02-zcore.md" changelist="ba44374d-6de2-4cf5-b010-4d68425a7810" time="1369736392898" ignored="false" />
     <file path="/2012-01-16-olutindo.md" changelist="ba44374d-6de2-4cf5-b010-4d68425a7810" time="1369736379669" ignored="false" />
+    <file path="/default.html" changelist="ba44374d-6de2-4cf5-b010-4d68425a7810" time="1369737459908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +76,7 @@
       <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/themes/the-program/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="24" selection-start="2531" selection-end="2642" vertical-scroll-proportion="0.58801496">
+            <state line="50" column="27" selection-start="2276" selection-end="2276" vertical-scroll-proportion="0.71910113">
               <folding />
             </state>
           </provider>
@@ -437,7 +448,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/the-program/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="24" selection-start="2531" selection-end="2642" vertical-scroll-proportion="0.58801496">
+        <state line="50" column="27" selection-start="2276" selection-end="2276" vertical-scroll-proportion="0.71910113">
           <folding />
         </state>
       </provider>
