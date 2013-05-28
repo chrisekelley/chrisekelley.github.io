@@ -1,0 +1,12 @@
+
+http://chrisekelley.github.io/archive.html
+http://chrisekelley.github.io/atom.xml
+http://chrisekelley.github.io/categories.html
+http://chrisekelley.github.io/index.html
+http://chrisekelley.github.io/pages.html
+http://chrisekelley.github.io/rss.xml
+http://chrisekelley.github.io/sitemap.txt
+http://chrisekelley.github.io/tags.html
+
+http://chrisekelley.github.io/projects/2012/01/16/olutindo
+http://chrisekelley.github.io/projects/2011/05/02/zcore

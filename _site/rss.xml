@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Chris E. Kelley</title>
+        <description>Chris E. Kelley - Chris Kelley</description>
+        <link>http://chrisekelley.github.io</link>
+        <link>http://chrisekelley.github.io</link>
+        <lastBuildDate>2013-05-28T12:21:51+02:00</lastBuildDate>
+        <pubDate>2013-05-28T12:21:51+02:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Olutindo</title>
+                <description>&lt;h3 id='note'&gt;Note&lt;/h3&gt;
+
+&lt;p&gt;The following text is copied from the &lt;a href='http://ictedge.org/oluntindo'&gt;original source&lt;/a&gt;. It describes software I implemented while working at RTI International.&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Residents respond enthusiastically to information about Olutindo' class='imageborderthin' src='/images/olutindo_launch_crowd_laugh.JPG' /&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Kayunga District residents at the Olutindo launch (photo credit: Claire Gowen)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On December 12, 2011, Kayunga District in Uganda launched a new customer service that enables citizens to notify 
+District officials of concerns with public services in health, education, or public works through SMS text messaging. 
+Citizens can send an SMS with their location (village, clinic, school) and problem or message to 7333. 
+This will create a &amp;quot;trouble ticket&amp;quot; which will be routed to a district health, education, or public works official.  
+The district official will acknowledge the ticket and send updates to the original sender as the problem is resolved.&lt;/p&gt;&lt;p&gt;&lt;img alt='Flier distributed at Olutindo launch' class='imageborderthin' src='/images/olutindo_Flier_half.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flier distributed at Olutindo launch&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Each district health, education, and public works official is equipped with a small 3G tablet that will enable communications 
+about a problem even when away from the office. The tablet software has been developed using &lt;a href='/coconut'&gt;Coconut&lt;/a&gt;. 
+When the software is running on the tablet, the main screen displays a searchable listing of incoming trouble tickets:&lt;/p&gt;&lt;p style='text-align: left;'&gt;
+&lt;img alt='Screenshot of home page of Olutindo application running on a tablet' class='imageborderthin' src='/images/olutindo_home_dec122011.PNG' style='width: 373px; height: 381px;' /&gt;&lt;/p&gt;&lt;p&gt;Clicking the link to the record opens a view of the citizen's request:&lt;/p&gt;&lt;p style='text-align: left;'&gt;&lt;img alt='Screenshot of a citizen request in Olutindo' class='imageborderthin' src='/images/olutindo_form.PNG' style='width: 381px; height: 503px;' /&gt;&lt;/p&gt;&lt;p&gt;&lt;a href='http://www.rti.org'&gt;RTI &lt;/a&gt;initiated this pilot project with the cooperation of the Kayunga District Chairperson and 
+designed the software, which is open source. 
+For questions about this project, please contact Claire Gowen (&lt;a href='mailto:cgowen@rti.org'&gt;cgowen@rti.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Original source: &lt;a href='http://ictedge.org/oluntindo'&gt;http://ictedge.org/oluntindo&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://chrisekelley.github.io/projects/2012/01/16/olutindo</link>
+                <guid>http://chrisekelley.github.io/projects/2012/01/16/olutindo</guid>
+                <pubDate>2012-01-16T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Zcore</title>
+                <description>&lt;h3 id='note'&gt;Note&lt;/h3&gt;
+
+&lt;p&gt;The following text is copied from the &lt;a href='http://ictedge.org/zcore'&gt;original source&lt;/a&gt;. It describes software I implemented while working at RTI International.&lt;/p&gt;
+&lt;p class='nomargintop'&gt;
+&lt;img alt='Zcore logo' class='imageborderthin' src='/images/rti/zcore_logo_md.png' style='float: left; margin-right: 10px; margin-bottom: 10px;' /&gt;Zcore&amp;trade; is the foundation we use to create easy-to-use data collection and management applications for projects ranging from health care to legal case management.
+It is well-suited for point-of-care applications.
+Zcore features easy forms creation, multilingual capabilities, and useful networking and data center integration. &lt;br /&gt;
+&lt;br /&gt;
+Zcore renders pages into its embedded web browser, which is provided by the Eclipse RCP framework.
+Data are stored in the application using the embedded Derby database, can be shared with a remote data center via Zcore's built-in synchronization system,
+can be exported to a MySQL database.
+and can be exported to other formats, such as Microsoft Excel.
+Data systems based on Zcore can be used to collect data from remote sites.
+Using Zcore, these sites can then synchronize their data with a remote, shared database over the Internet and Internet connectivity is present.
+The result is a scalable, fault-tolerant data sharing network.
+Projects based on Zcore are deployed in Zambia, Kenya, and South Africa.&lt;/p&gt;&lt;p class='nomargintop'&gt;&lt;a class='downloadicon' href='http://ictedge.org/downloads' title='Link to downloads page'&gt;Download Zcore software&lt;/a&gt;&lt;/p&gt;&lt;h2 class='nomargintop'&gt;Features&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;img align='right' alt='Pharmacists in Nairobi, Kenya, learn how to use Zcore-DAR software to manage pharmaceutical supplies.' class='imageborderthin' height='248' hspace='3' src='/images/rti/zcore-dar_training_nairobi.jpg' style='float: right; margin-right: 20px; margin-bottom: 20px;' title='Pharmacists in Nairobi, Kenya, learn how to use Zcore-DAR software to manage pharmaceutical supplies.' vspace='12' width='344' /&gt;&lt;/p&gt;
+Role-based security (Password-protected)&lt;/li&gt;
+&lt;li&gt;Easy forms creation&lt;/li&gt;
+&lt;li&gt;Application and forms may be translated into multiple languages.&lt;/li&gt;&lt;li&gt;Simple installation&lt;/li&gt;
+&lt;li&gt;Problem-based care&lt;/li&gt;
+&lt;li&gt;Instant workgroups: More than one PC may enter data into the application at the same time.&lt;/li&gt;
+&lt;li&gt;Propagate form changes to remote instances of the application- see &lt;a href='/images/rti/resources/demos/zephyr-admin-import-data/' title='Zephyr admin import data'&gt;Importing records from a remote site&lt;/a&gt; screencast.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Projects&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.orgprojects/zeprs' title='Link to the perinatal care Zeprs'&gt;Perinatal Care&lt;/a&gt; - Zambia Electronic Perinatal Record &lt;img alt='Diagram showing remote Zcore sites synchronizing with a central database.' class='imageborderthin' height='330' src='/images/rti/zeprs_simple_network_diagram_sm_0.PNG' style='float: right; margin: 10px;' title='Diagram showing remote Zcore sites synchronizing with a central database.' width='341' /&gt;System (ZEPRS) is being used by clinics and the University Teaching Hospital in Lusaka, Zambia to improve patient care.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.orgprojects/wrKenya'&gt;Pharmaceutical supplies&lt;/a&gt; - The Zcore Daily Activity Register (DAR) is a project based on Zcore&amp;nbsp;&amp;trade; that is currently being deployed in Nairobi, Kenya for the &lt;a href='/node/170' title='Link to Wireless Reach Kenya Partnership Project'&gt;management of inventory in public health center pharmacies&lt;/a&gt;.
+RTI worked with the Provincial Pharmacist's Office to develop the software and training program that enables pharmacists to use this electronic system of stock control.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;
+  &lt;li&gt;&lt;a href='projects/irsa'&gt;Malaria Spraying&lt;/a&gt; - The Zcore IRS (Indoor Residual Spraying Application) assists projects in the collection and aggregation of data from remote field sites.
+  Data for each day&amp;rsquo;s spraying, including details about each house spraying or the day&amp;rsquo;s spraying totals, is entered into the main form.
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/node/181'&gt;OpenMRS Integration&lt;/a&gt; - This project demonstrates interoperability between Zcore and OpenMRS, a community-developed, open-source, enterprise electronic medical record system framework&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.orgprojects/rape_case_mgmt'&gt;Rape Case Management&lt;/a&gt; - As part of the Women&amp;rsquo;s Justice Empowerment Initiative (WJEI) project in South Africa, RTI is working with the Sexual Offenses and Community Affairs (SOCA) unit of the National Prosecuting Authority to build a case management system.
+The Zcore Thuthuzela Information Management System (TIMS) will be used to manage the legal, medical, and psycho-social cases at the Thuthuzela Care Centers (TCC's).&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;More Information&lt;/h2&gt;&lt;h4&gt;Demonstrations&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zcore_quick_form_creation/' title='Link to Zcore form creation demo'&gt;Quick Form Creation Demo.&lt;/a&gt;&lt;img alt='Zcore Screencast' src='/images/rti/zcoreScreenshot01.jpg' style='float: right; margin-left: 20px; margin-bottom: 20px;' title='Zcore Screencast' /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zephyr-admin-create-form/' title='Link to creating a form detail demo'&gt;Creating a form &lt;/a&gt;- detailed Demo.&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zephyr-admin-dropdown/' title='Link to adding a table-based dropdown to a form'&gt;Adding a table-based dropdown to a form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zephyr-admin-create-rule/' title='Link to adding a problem (rule) to a field'&gt;Adding a problem (rule) to a field&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zephyr-admin-enum-rule/' title='Link to adding a problem (rule) to a dropdown field'&gt;Adding a problem (rule) to a dropdown field&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zephyr-admin-import-data/' title='Importing records from a remote site'&gt;Importing records from a remote site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/dar_edit_patient_bridge_table/' title='Editing a patient bridge form'&gt;Editing a patient bridge form&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/openmrs-zcore-import-forms/' title='Link to reating forms in OpenMRS and importing into Zcore'&gt;Creating forms in OpenMRS and importing into Zcore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zcore-openmrs-record-import/' title='Link to exporting records from Zcore and importing into OpenMRS'&gt;Exporting records from Zcore and importing into OpenMRS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/resources/demos/zcore_import_form/' title='Link to Importing a form Developed on Another Zcore Instance '&gt;Importing a Form Developed on Another Zcore Instance &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4&gt;Software&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a class='downloadicon' href='http://ictedge.org/downloads' title='Link to downloads page'&gt;Download Zcore software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.ictedge.org/zcore/dev'&gt;Information about Zcore software development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://www.ictedge.org/repos/zcore-base/' title='Link to the Subversion repository'&gt;Access Zcore source code in the Subversion repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;Documentation&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/node/631'&gt;Zcore Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/zcore/multilingual' title='Link to multilingual handbook'&gt;Multilingual Handbook&lt;/a&gt; (How to use the multilingual capabilities in Zcore)&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/zcore/menuItems' title='Link to editing menu items'&gt;Editing Menu Items&lt;/a&gt; (Changing Zcore side navigation)&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/node/168' title='Link to Zcore software development'&gt;Zcore Development&lt;/a&gt; (How to build a new Zcore project and links to other Zcore development pages&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/Creating a new Zcore project.pdf' title='Creating a new project document'&gt;Creating a New Project: Eclipse Setup and Project Tips (for Zcore software developers).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/files/Importing fields from an Excel Spreadsheet.pdf' title='Importing fields from an excel spreadsheet'&gt;Importing fields from an Excel Spreadsheet&lt;/a&gt; (PDF 452 kb)&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/zeprs/book' title='Link to ZEPRS documentation'&gt;ZEPRS Documentation&lt;/a&gt; (Much of ZEPRS documentation is applicable to Zcore)&lt;/li&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/zcore/roadmap' title='Link to Zcore roadmap.'&gt;Zcore Roadmap&lt;/a&gt; (A list of planned new features)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Many thanks to &lt;a href='http://installbuilder.bitrock.com/' target='_blank'&gt;Bitrock&lt;/a&gt;  for granting us a free license for BitRock Installer!&lt;a href='http://installbuilder.bitrock.com/' target='_blank' title='Link to the Bitrock intaller'&gt;&lt;img alt='BitRock Logo' src='/images/rti/bitrock.jpg' style='margin-left: 20px; vertical-align: middle;' title='BitRock Logo' /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Original source: &lt;a href='http://ictedge.org/zcore'&gt;http://ictedge.org/zcore&lt;/a&gt;&lt;/p&gt;</description>
+                <link>http://chrisekelley.github.io/projects/2011/05/02/zcore</link>
+                <guid>http://chrisekelley.github.io/projects/2011/05/02/zcore</guid>
+                <pubDate>2011-05-02T00:00:00+02:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
