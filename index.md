@@ -5,14 +5,39 @@ tagline: my projects hosted here and elsewhere
 ---
 {% include JB/setup %}
 
+## Olutindo
+
+<table>
+  <tr>
+    <td>
+    Olutindo is a webapp for <a href="projects/2012/01/16/olutindo">managing citizen complaints in Uganda</a>. It is the html5 companion to the
+    <a href='https://github.com/chrisekelley/olutindo-app'>Olutindo-app</a> Android application, which uses
+    Phonegap/Cordova 3.x. Olutindo uses <a href='http://chrisekelley.github.io/coconut/'>Coconut</a> for most of its
+    front-end form rendering, <a href='http://backbonejs.org'>backbone.js</a> for MVC, <a href='http://pouchdb.com/'>pouchdb</a>
+    for browser-based data store and replication, and <a href='http://couchdb.apache.org/'>CouchDB</a> for the master data store.
+    </td>
+    <td>
+    <img alt='Screenshot of Olutindo' src='images/olutindoAppHome50.png' />
+    </td>
+  </tr>
+</table>
+
 ## AlloChrome
 
-![Screenshot of AlloChrome browser and url chooser](images/allochrome50.png)
+<table>
+<tr>
+<td>
+<img alt='Screenshot of AlloChrome browser and url chooser' src='images/allochrome50.png' />
+</td>
+<td>
+<a href='https://github.com/chrisekelley/AlloChrome'>AlloChrome</a> is a test of
+<a href='https://github.com/pwnall/chromeview'>ChromeView</a>, an embedded version of Chromium. The app tests how
+well/if this embedded Chrome can render simple web pages using <a href='http://jonobr1.github.io/two.js/'>two.js</a>,
+<a href='http://threejs.org/'>three.js</a>, and <a href='https://github.com/GoodBoyDigital/pixi.js'>pixi</a>.
+</td>
+</tr>
+</table>
 
-[AlloChrome](https://github.com/chrisekelley/AlloChrome) is a test of [ChromeView](https://github.com/pwnall/chromeview), an embedded version of Chromium.
-The app tests how well/if this embedded Chrome can render simple web pages using
-[two.js](http://jonobr1.github.io/two.js/), [three.js](http://threejs.org/), and [
-pixi](https://github.com/GoodBoyDigital/pixi.js).
 
 ## voxel-label
 

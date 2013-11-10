@@ -9,13 +9,15 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Chris E. Kelley
+title : kinotel.com
+description: This site is a showcase for projects I have developed.
 tagline: Software Developer
 author :
   name : Chris Kelley
   email : chris@vetula.com
   github : chrisekelley
   twitter : chrisekelley
+  linkedin: cekelley
 
 # timezone
 
