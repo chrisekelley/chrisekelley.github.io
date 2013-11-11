@@ -5,8 +5,8 @@
         <description>kinotel.com - Chris Kelley</description>
         <link>http://chrisekelley.github.io</link>
         <link>http://chrisekelley.github.io</link>
-        <lastBuildDate>2013-11-10T18:59:40+01:00</lastBuildDate>
-        <pubDate>2013-11-10T18:59:40+01:00</pubDate>
+        <lastBuildDate>2013-11-11T07:32:45+01:00</lastBuildDate>
+        <pubDate>2013-11-11T07:32:45+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -87,7 +87,11 @@ The Zcore Thuthuzela Information Management System (TIMS) will be used to manage
 &lt;li&gt;&lt;a href='http://ictedge.org/files/Creating a new Zcore project.pdf' title='Creating a new project document'&gt;Creating a New Project: Eclipse Setup and Project Tips (for Zcore software developers).&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href='http://ictedge.org/files/Importing fields from an Excel Spreadsheet.pdf' title='Importing fields from an excel spreadsheet'&gt;Importing fields from an Excel Spreadsheet&lt;/a&gt; (PDF 452 kb)&lt;/li&gt;
 &lt;li&gt;&lt;a href='http://ictedge.org/zeprs/book' title='Link to ZEPRS documentation'&gt;ZEPRS Documentation&lt;/a&gt; (Much of ZEPRS documentation is applicable to Zcore)&lt;/li&gt;
-&lt;li&gt;&lt;a href='http://ictedge.org/zcore/roadmap' title='Link to Zcore roadmap.'&gt;Zcore Roadmap&lt;/a&gt; (A list of planned new features)&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Many thanks to &lt;a href='http://installbuilder.bitrock.com/' target='_blank'&gt;Bitrock&lt;/a&gt;  for granting us a free license for BitRock Installer!&lt;a href='http://installbuilder.bitrock.com/' target='_blank' title='Link to the Bitrock intaller'&gt;&lt;img alt='BitRock Logo' src='/images/rti/bitrock.jpg' style='margin-left: 20px; vertical-align: middle;' title='BitRock Logo' /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;li&gt;&lt;a href='http://ictedge.org/zcore/roadmap' title='Link to Zcore roadmap.'&gt;Zcore Roadmap&lt;/a&gt; (A list of planned new features)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Many thanks to &lt;a href='http://installbuilder.bitrock.com/' target='_blank'&gt;Bitrock&lt;/a&gt;  for granting us a free
+license for BitRock Installer!
+&lt;a href='http://installbuilder.bitrock.com/' target='_blank' title='Link to the Bitrock intaller'&gt;&lt;img alt='BitRock Logo' src='/images/rti/bitrock.jpg' style='margin-left: 20px; vertical-align: middle;' title='BitRock Logo' /&gt;&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Original source: &lt;a href='http://ictedge.org/zcore'&gt;http://ictedge.org/zcore&lt;/a&gt;&lt;/p&gt;</description>
                 <link>http://chrisekelley.github.io/projects/2011/05/02/zcore</link>
                 <guid>http://chrisekelley.github.io/projects/2011/05/02/zcore</guid>
