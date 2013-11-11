@@ -7,6 +7,8 @@ tagline: my projects hosted here and elsewhere
 
 ## Olutindo
 
+### Making data available offline
+
 <table>
   <tr>
     <td>
@@ -24,16 +26,21 @@ tagline: my projects hosted here and elsewhere
 
 ## AlloChrome
 
+### WebGL FTW (eventually)
+
 <table>
 <tr>
 <td>
 <img alt='Screenshot of AlloChrome browser and url chooser' src='images/allochrome50.png' />
 </td>
 <td>
-<a href='https://github.com/chrisekelley/AlloChrome'>AlloChrome</a> is a test of
-<a href='https://github.com/pwnall/chromeview'>ChromeView</a>, an embedded version of Chromium. The app tests how
+<p>I am a big fan of using WebGL to create awesome 3D graphics for games and other apps.
+Unfortunately (circa 2013) it is not available to html5 apps running on Android and IOS.
+I followed up on <a href='https://github.com/pwnall'>Victor Costan</a>'s work on <a href='https://github.com/pwnall/chromeview'>ChromeView</a>
+by creating an app that tests the performance of 2D and 3D Javascript frameworks in ChromeView. Next step was to get WebGL working in it.</p>
+<p><a href='https://github.com/chrisekelley/AlloChrome'>AlloChrome</a> tests how
 well/if this embedded Chrome can render simple web pages using <a href='http://jonobr1.github.io/two.js/'>two.js</a>,
-<a href='http://threejs.org/'>three.js</a>, and <a href='https://github.com/GoodBoyDigital/pixi.js'>pixi</a>.
+<a href='http://threejs.org/'>three.js</a>, and <a href='https://github.com/GoodBoyDigital/pixi.js'>pixi</a>.</p>
 </td>
 </tr>
 </table>

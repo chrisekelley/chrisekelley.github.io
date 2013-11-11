@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba44374d-6de2-4cf5-b010-4d68425a7810" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/projects/2011-05-02-zcore.md" afterPath="$PROJECT_DIR$/_posts/projects/2011-05-02-zcore.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/archive.html" afterPath="$PROJECT_DIR$/_site/archive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories.html" afterPath="$PROJECT_DIR$/_site/categories.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html" afterPath="$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2012/01/16/olutindo/index.html" afterPath="$PROJECT_DIR$/_site/projects/2012/01/16/olutindo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tags.html" afterPath="$PROJECT_DIR$/_site/tags.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chrisekelley.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +39,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="26" selection-start="536" selection-end="536" vertical-scroll-proportion="-9.230769" vertical-offset="0" max-vertical-offset="2085">
+            <state line="12" column="86" selection-start="469" selection-end="469" vertical-scroll-proportion="-6.923077" vertical-offset="0" max-vertical-offset="2085">
               <folding />
             </state>
           </provider>
@@ -38,28 +48,28 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="0" selection-start="11139" selection-end="11524" vertical-scroll-proportion="6.42" vertical-offset="2106" max-vertical-offset="4080">
+            <state line="120" column="0" selection-start="11526" selection-end="11530" vertical-scroll-proportion="6.42" vertical-offset="2121" max-vertical-offset="4065">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2011-05-02-zcore.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2011-05-02-zcore.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/projects/2011-05-02-zcore.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="0" selection-start="9110" selection-end="9110" vertical-scroll-proportion="0.8301887" vertical-offset="910" max-vertical-offset="1455">
+            <state line="90" column="0" selection-start="9110" selection-end="9110" vertical-scroll-proportion="-16.296297" vertical-offset="910" max-vertical-offset="1455">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="128" selection-end="128" vertical-scroll-proportion="-4.0384617" vertical-offset="0" max-vertical-offset="1545">
+            <state line="51" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.56497175" vertical-offset="465" max-vertical-offset="1650">
               <folding />
             </state>
           </provider>
@@ -137,12 +147,12 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/themes/the-program/default.html" />
         <option value="$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html" />
         <option value="$PROJECT_DIR$/_posts/projects/2011-05-02-zcore.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.md" />
       </list>
     </option>
   </component>
@@ -284,7 +294,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13989004" sideWeight="0.6704036" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -373,16 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="128" selection-end="128" vertical-scroll-proportion="-4.0384617" vertical-offset="0" max-vertical-offset="1545">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/the-program/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="21" selection-start="325" selection-end="325" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="510">
@@ -397,23 +397,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/the-program/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="28" selection-start="1581" selection-end="1581" vertical-scroll-proportion="-3.9" vertical-offset="300" max-vertical-offset="1485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="536" selection-end="536" vertical-scroll-proportion="-9.230769" vertical-offset="0" max-vertical-offset="2085">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/projects/2011/05/02/zcore/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="0" selection-start="11139" selection-end="11524" vertical-scroll-proportion="6.42" vertical-offset="2106" max-vertical-offset="4080">
+        <state line="120" column="0" selection-start="11526" selection-end="11530" vertical-scroll-proportion="6.42" vertical-offset="2121" max-vertical-offset="4065">
           <folding />
         </state>
       </provider>
@@ -423,7 +409,31 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="0" selection-start="9110" selection-end="9110" vertical-scroll-proportion="0.8301887" vertical-offset="910" max-vertical-offset="1455">
+        <state line="90" column="0" selection-start="9110" selection-end="9110" vertical-scroll-proportion="-16.296297" vertical-offset="910" max-vertical-offset="1455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/the-program/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="28" selection-start="1581" selection-end="1581" vertical-scroll-proportion="-3.9" vertical-offset="300" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="86" selection-start="469" selection-end="469" vertical-scroll-proportion="-6.923077" vertical-offset="0" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="0.56497175" vertical-offset="465" max-vertical-offset="1650">
           <folding />
         </state>
       </provider>
