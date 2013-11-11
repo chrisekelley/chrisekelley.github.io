@@ -8,7 +8,7 @@ tagline: my projects hosted here and elsewhere
 ## Olutindo
 ### Making data available offline
 
-#### Nov. 11, 2013
+#### November 2013
 
 <table>
   <tr>
@@ -36,11 +36,46 @@ tagline: my projects hosted here and elsewhere
   </tr>
 </table>
 
+## Tangerine
+
+### Migrating a Mobile-Couchbase project to PouchDB
+
+#### October, 2013
+
+<table>
+<tr>
+<td>
+<img alt='Tangerine logo' src='images/tangerine_logo.png' />
+</td>
+<td>
+<p>Tangerine is a tablet/phone application for assessing students. It was originally deployed using Mobile Couchbase, which
+embedded an Erlang interpreter to provide a mobile CouchDB implementation.
+I worked with <a href="https://github.com/jeffrafter">Jeff Rafter</a> to port Tangerine over to <a href="pouchdb.com">PouchDB</a>,
+which implements the CouchDB API using Javascript and the html5 <a href="http://www.w3.org/TR/IndexedDB/">IndexedDB database API</a>.
+</p>
+<p>Github: <a href='https://github.com/chrisekelley/Tangerine'>Tangerine</a>
+</p>
+</td>
+</tr>
+</table>
+
+## Tangelo
+
+### Backbone.js and the Stanford Javascript Crypto Library
+
+#### September, 2013
+
+Tangelo uses the Backbone Comments example as a basis for testing the [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/).
+This project provides some examples how to encrypt data for a PouchDB/CouchDB-based application.
+
+<p>Github: <a href='https://github.com/chrisekelley/tangelo'>Tangelo</a>
+</p>
+
 ## AlloChrome
 
 ### WebGL FTW (eventually)
 
-#### May 28, 2013
+#### May 2013
 
 <table>
 <tr>
@@ -102,7 +137,7 @@ games like Minecraft in the browser:
 
 ### Managing Android Deployments
 
-#### Feb. 27, 2013
+#### February 2013
 <table>
 <tr>
 <td><img alt='Screenshot of record listing' src='images/andromeda_50_crop.png' /></td>
